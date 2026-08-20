@@ -1,0 +1,31 @@
+body {
+    font-family: "Times New Roman", serif;
+    text-align: center;
+}
+
+.biodata p {
+    font-size: 20px;
+    margin: 15px 0;
+}
+.nama,
+.kelas{
+    background-color: #0645c0;
+    color: black;
+    font-weight: bold;
+    padding: 3px 5px;
+}
+
+.class{
+    background-color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ h1,h2{
+ color:gold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+ }
+ p{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+ }
